@@ -55,6 +55,7 @@ export function getFontSizeToFit(text, fontFamily, maxWidth, canvasContext) {
   canvasContext.font = `1px ${fontFamily}`;
   const w = canvasContext.measureText(text).width;
   canvasContext.restore();
+  // test commit
   return maxWidth / w;
 }
 
