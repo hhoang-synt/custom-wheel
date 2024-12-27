@@ -1,12 +1,12 @@
 {
-  "name": "spin-wheel",
+  "name": "custom-wheel",
   "version": "5.0.3",
   "author": "hhoang-synt",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hhoang-synt/spin-wheel.git"
+    "url": "git+https://github.com/hhoang-synt/custom-wheel.git"
   },
-  "homepage": "https://github.com/hhoang-synt/spin-wheel#readme",
+  "homepage": "https://github.com/hhoang-synt/custom-wheel#readme",
   "license": "MIT",
   "description": "An easy to use, themeable component for randomising choices and prizes.",
   "keywords": [
