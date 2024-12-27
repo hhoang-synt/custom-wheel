@@ -1,12 +1,12 @@
 {
   "name": "spin-wheel",
   "version": "5.0.2",
-  "author": "CrazyTim",
+  "author": "hhoang-synt",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CrazyTim/spin-wheel.git"
+    "url": "git+https://github.com/hhoang-synt/spin-wheel.git"
   },
-  "homepage": "https://github.com/CrazyTim/spin-wheel#readme",
+  "homepage": "https://github.com/hhoang-synt/spin-wheel#readme",
   "license": "MIT",
   "description": "An easy to use, themeable component for randomising choices and prizes.",
   "keywords": [
