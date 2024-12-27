@@ -4,7 +4,7 @@
   "author": "hhoang-synt",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hhoang-synt/custom-wheel.git"
+    "url": "https://github.com/hhoang-synt/custom-wheel.git"
   },
   "homepage": "https://github.com/hhoang-synt/custom-wheel#readme",
   "license": "MIT",
